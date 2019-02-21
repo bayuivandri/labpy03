@@ -83,13 +83,19 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 
 ### ==> Penjelasan Alur Program
 1.*print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan')* Untuk menampilkan kalimat *Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan*
+
 2. *max= 0* kode max disini untuk menentukan nilai max nya dalah 0
+
 3. *while true:* Untuk perulangan hingga waktu yang  tidak di tentukan atau selamanya
+
 4. *a=int(input("Masukan Bilangan :"))* a untuk menginput tipe data interger ( bilangan bulat )
+
 5. *if max < a 
     *max=a* jika max kurang dari a maka max = a
+    
 6. *if a==0: 
     *break* jika a= 0 maka akan berhenti dengan syarat break yang terpenuhi
+    
 7. *print("Bilangan Tebesar Adalah :", max)* Menampilkan *Bilangan Tebesar Adalah : Nilai maxiumnya
 
 
@@ -135,12 +141,18 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 
 ### ==> Penjelasan Alur Program
 1. *print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')* Untuk Menampilkan kalimat *Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
+
 2. *x=100000000* Dengan pemisalan atau dideklarasikan x adalah 100000000
+
 3. *print (" Modal Awal:",x)* Menampilkan kalimat *Modal Awal : dan data yang berisi di x yaitu 100000000
+
 4. *a=0*x, b=0*x, c=0.01*x, d=0.01*x, e=0.05*x, f=0.05*x, g=0.05*x, h=0.03*x* Untuk Mendeklarasikan presentase laba tiap bulan dan di kali dengan x atau data inputan modal investasi yaitu 100000000
+
 5. *y=[a,b,c,d,e,f,g,h]* untuk menentukan syarat y= yang berisi a,b,c,d,e,f,g,h
+
 6. *For i in range (len (y))* 
    *Print (“laba bulan ke-“,i+1,”sebesar:” ,y[i])* untuk perulangan data dengan isi data yaitu Ydengan menampilkan urutan laba perbulan sesuai range yang di tentukan dengan hasil ke untukan yang di inpput dari data Y
+   
 7. *Z= (a+b+c+d+e+f+g+h)*
     *Print (“jumlah laba selama 8 bulan adalah:”)* Z berisi data penjumlahan data angka yang ada didalam kode a,b,c,d,e,f,g,h yang akan di tampilakan atau dicetak  di jumlah laba selama 8 bulan
 
