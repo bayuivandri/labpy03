@@ -30,7 +30,7 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 5. Ketikan Program *print("Data ke", 1+i,"=>", (random.uniform(0.1,0.5)))*
 
 ### ==> Penjelasan Alur Program
-1. *print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')* Untuk Menampilkan atau Mencetak kalimat *Tampilkan N Bilangan Acak   yang Lebih Kecil Dari 0.5
+1. *print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')* Untuk Menampilkan atau Mencetak kalimat *Tampilkan N Bilangan Acak        yang Lebih Kecil Dari 0.5
 
 2. *jumlah=int(input("Masukan Jumlah N : "))* Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
 
