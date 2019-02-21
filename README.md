@@ -130,7 +130,7 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 
 
 
-![ucapan-terima-kasih-dalam-bahasa-inggris-1](https://user-images.githubusercontent.com/46738174/53144579-675a8a00-35cf-11e9-8ead-74b4c9e9ce03.jpg)
+![9c5fc29a1681f89a163ddf3b6b8187d3fe38d358](https://user-images.githubusercontent.com/46738174/53144694-e780ef80-35cf-11e9-8ee1-0cf66f10c184.jpg)
 
 # Nama  : Bayu Ivandri
 # NIM   : 311810028
