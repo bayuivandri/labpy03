@@ -1,5 +1,6 @@
 # labpy03
 
+
 # Latihan 1 
 # Program Sederhana Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5 
 
@@ -39,6 +40,9 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 ![latihan1program](https://user-images.githubusercontent.com/46738174/53144288-3d549800-35ce-11e9-9a35-5afac5e54d80.png)
 
 
+## D. Keterangan Fungsi-Fungsi Pada Program 
+
+
 # Latihan 2
 # Program Sederhana Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
 
@@ -60,31 +64,44 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 
 ## C. Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
 1. Ketikan Program print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan')
+
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
 
 2. Ketikan Program max= 0
+
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
 
 3. Ketikan Program while true:
+
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
 
 4. Ketikan Program a=int(input("Masukan Bilangan :"))
+
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
 
 5. Ketikan Program if max < a
+
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
 
 6. Ketikan Program max=a
+
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
 
 7. Ketikan Program if a==0:
+
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
 
 8. Ketikan Program break
+
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
 
 9. Ketikan Program print("Bilangan Tebesar Adalah :", max)
+
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
+
+
+## D. Keterangan Fungsi-Fungsi Pada Program 
+
 
 # Program 1
 # Program Sederhana Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
@@ -109,24 +126,43 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 ## C. Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
 
 1. Ketikan Program print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')
+
 ![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
 
 2. Ketikan Program x=100000000
 
+![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
+
 3. Ketikan Program print (" Modal Awal:",x)
+
+![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
 
 4. Ketikan Program a=0*x, b=0*x, c=0.01*x, d=0.01*x, e=0.05*x, f=0.05*x, g=0.05*x, h=0.03*x 
 
+![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
+
 5. Ketikan Program y=[a,b,c,d,e,f,g,h]
+
+![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
 
 6. Ketikan Program For i in range (len (y))
 
+![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
+
 7. Ketikan Program Print (“laba bulan ke-“,i+1,”sebesar:” ,y[i])
+
+![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
 
 8. Ketikan Program Z= (a+b+c+d+e+f+g+h)
 
+![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
+
 9. Ketikan Program Print (“jumlah laba selama 8 bulan adalah:”)
 
+![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
+
+
+## D. Keterangan Fungsi-Fungsi Pada Program 
 
 
 
