@@ -34,7 +34,7 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 
 2. *jumlah=int(input("Masukan Jumlah N : "))* Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu interger tipe data bilangan bulat
 
-3. *import random* Untuk pengulangan secara acak 
+3. *import random* Untuk pengulangan secara acak
 
 4. *for i in range ( jumlah ) :* Untuk Pengulangan dengan range jumlah
 
@@ -92,10 +92,10 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 
 4. *a=int(input("Masukan Bilangan :"))* a untuk menginput tipe data interger ( bilangan bulat )
 
-5. *if max < a 
+5. *if max < a*
     *max=a* jika max kurang dari a maka max = a
     
-6. *if a==0: 
+6. *if a==0:*
     *break* jika a= 0 maka akan berhenti dengan syarat break yang terpenuhi
     
 7. *print("Bilangan Tebesar Adalah :", max)* Menampilkan *Bilangan Tebesar Adalah : Nilai maxiumnya
@@ -146,7 +146,7 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 
 2. *x=100000000* Dengan pemisalan atau dideklarasikan x adalah 100000000
 
-3. *print (" Modal Awal:",x)* Menampilkan kalimat *Modal Awal : dan data yang berisi di x yaitu 100000000
+3. *print (" Modal Awal:",x)* Menampilkan kalimat *Modal Awal : dan data yang berisi di x yaitu 100000000*
 
 4. *a=0*x, b=0*x, c=0.01*x, d=0.01*x, e=0.05*x, f=0.05*x, g=0.05*x, h=0.03*x* Untuk Mendeklarasikan presentase laba tiap bulan dan di kali dengan x atau data inputan modal investasi yaitu 100000000
 
@@ -161,8 +161,6 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 ## D. Hasil
 
 ![program1programhasil](https://user-images.githubusercontent.com/46738174/53145799-33ce2e80-35d4-11e9-8891-e875f2e0cdb9.png)
-
-## D. Keterangan Fungsi-Fungsi Pada Program 
 
 # Nama  : Bayu Ivandri
 # NIM   : 311810028
