@@ -7,12 +7,13 @@
 ## A. Algoritma Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5 
 
 1.	Masukan Jumlah N pengulangan
-2.	Proses pengulangan sesuai jumlah pengulangan yang dinputkan
+2.	Proses pengulangan sesuai jumlah pengulangan yang diinputkan
 3.	Tampilkan pengulangan dengan nilai di bawah 0.5
 4.	Selesai
 
 Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya Kita Membuat Flowchartnya. 
-Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah Bilangan.
+
+Berikut ini Flowchart Program :
 
 ## B. Flowchart Program
 
@@ -21,6 +22,15 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 ## C. Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5 
 
 ![latihan1program](https://user-images.githubusercontent.com/46738174/53144288-3d549800-35ce-11e9-9a35-5afac5e54d80.png)
+
+### ==> Program
+
+      print ('Tampilkan n Bilangan Acak yang Lebih Kecil dari 0.5')
+      jumlah =int (input( " Masukan Jumlah N : "))
+      import random
+      for i in range (jumlah) :
+          print (" Data ke", 1+i,"=>",(random.uniform(0.1,0.5)))
+      print (" Selesai ")
 
 ### ==> Urutan Pembuatan Program
 1. Ketikan Program *print ('Tampilkan n Bilangan Acak yang Lebih Kecil Dari 0.5')*
@@ -60,7 +70,8 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 6.	Selesai
 
 Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya Kita Membuat Flowchartnya. 
-Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah Bilangan.
+
+Berikut ini Flowchart Programnya :
 
 ## B. Flowchart Program
 
@@ -69,6 +80,18 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 ## C. Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
 
 ![latihan2program](https://user-images.githubusercontent.com/46738174/53144341-755bdb00-35ce-11e9-855c-c6023776dc87.png)
+
+### ==> Program
+
+      print ('Menampilkan Bilangan Terbesar dari N Buah Data Yang Diinputkan')
+      max = 0
+      while True:
+         a=int(input("Masukan Bilangan :"))
+         if max < a:
+            max = a
+         if a==0:
+            break
+      print("Bilangan Terbesar Adalah :", max)
 
 ### ==> Urutan Pembuatan Program
 1. Ketikan Program *print ('Menampilkan Bilangan Terbesar Dari N Buah Data Yang Diinputkan')*
@@ -122,6 +145,10 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 7.	Print (“jumlah laba selama 8 bulan adalah:”)
 8.	selesai
 
+Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya Kita Membuat Flowchartnya. 
+
+Berikut ini Flowchart Programnya :
+
 ## B. Flowchart Program
 
 ![program1](https://user-images.githubusercontent.com/46738174/53144378-97555d80-35ce-11e9-9f57-8c2c6672dcac.png)
@@ -129,6 +156,32 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 ## C. Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
 
 ![program1peogram1](https://user-images.githubusercontent.com/46738174/53144399-b0f6a500-35ce-11e9-9ea1-d8cc632a6cd1.png)
+
+### ==> Program
+
+      print ( 'Jumlah Laba hasil investasi seorang pengusaha selama 8 bulan')
+
+      #modal awal
+      x=100000000
+      print ("Modal Awal :",x )
+
+      #presentase keuntungan
+      a=0*x
+      b=0*x
+      c=0.01*x
+      d=0.01*x
+      e=0.05*x
+      f=0.05*x
+      g=0.05*x
+      h=0.03*x
+
+      y=[a,b,c,d,e,f,g,h]
+
+      for i in range (len(y)):
+         print ("Laba Bulan Ke-",i+1 ,"Sebesar :" ,y[i])
+
+      z= (a+b+c+d+e+f+g+h)
+         print ("Jumlah Laba Selama 8 Bulan adalah : ",z)
 
 ### ==> Urutan Pembuatan Program
 1. Ketikan Program *print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')*
