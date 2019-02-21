@@ -13,7 +13,7 @@
 
 Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya Kita Membuat Flowchartnya. 
 
-Berikut ini Flowchart Program :
+Berikut ini Flowchart Programnya :
 
 ## B. Flowchart Program
 
