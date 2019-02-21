@@ -142,7 +142,7 @@ Berikut ini Flowchart Program Untuk Menentukan Bilangan Terbesar Dari Tiga Buah 
 9. Ketikan Program *Print (“jumlah laba selama 8 bulan adalah:”)*
 
 ### ==> Penjelasan Alur Program
-1. *print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')* Untuk Menampilkan kalimat *Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
+1. *print ('Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan')* Untuk Menampilkan kalimat *Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan*
 
 2. *x=100000000* Dengan pemisalan atau dideklarasikan x adalah 100000000
 
